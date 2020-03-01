@@ -1,0 +1,5 @@
+E:\MyTypeScript\PhaserTypeScript\bin\TypeScriptHTMLApp1.dll
+E:\MyTypeScript\PhaserTypeScript\bin\TypeScriptHTMLApp1.pdb
+E:\MyTypeScript\PhaserTypeScript\obj\Release\PhaserTypeScript.csprojAssemblyReference.cache
+E:\MyTypeScript\PhaserTypeScript\obj\Release\TypeScriptHTMLApp1.dll
+E:\MyTypeScript\PhaserTypeScript\obj\Release\TypeScriptHTMLApp1.pdb
